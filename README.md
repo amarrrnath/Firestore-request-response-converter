@@ -1,6 +1,6 @@
 # Firestore-request-response-converter
 
-These APIGEE shared flow' uploadable zip folders.
+These are APIGEE shared flows which are uploadable zip folders.
 
 To use FirebaseRequestConverter:
 1. Set your regular JSON to the context variable - "standardInput"
